@@ -46,16 +46,16 @@ The **BookStoreApp** is a comprehensive platform where users can browse, filter,
    ![Sign In](https://github.com/Aman12f/BookStoreApp/blob/main/frontend/src/assets/signin.png?raw=true)
 
 3. **Dashboard**  
-   ![Dashboard](#)
+   ![Dashboard](https://github.com/Aman12f/BookStoreApp/blob/main/frontend/src/assets/Dashboard.jpeg?raw=true)
 
 4. **Dark/Light Mode Toggle**  
-   ![Dark/Light Mode Toggle](#)
+   ![Dark/Light Mode Toggle](https://github.com/Aman12f/BookStoreApp/blob/main/frontend/src/assets/dark-light-toogle.jpeg?raw=true)
 
 5. **Book Browsing**  
-   ![Book Browsing](#)
+   ![Book Browsing](https://github.com/Aman12f/BookStoreApp/blob/main/frontend/src/assets/book-browsing.jpeg?raw=true)
 
 6. **Book Filtering**  
-   ![Book Filtering](#)
+   ![Book Filtering](https://github.com/Aman12f/BookStoreApp/blob/main/frontend/src/assets/book-filter.jpeg?raw=true)
 
 ## 🌐 Live Demo
 
