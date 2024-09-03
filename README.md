@@ -40,10 +40,10 @@ The **BookStoreApp** is a comprehensive platform where users can browse, filter,
 ## 📸 Screenshots
 
 1. **Sign Up**  
-   ![https://github.com/Aman12f/BookStoreApp/blob/main/frontend/src/assets/signup.png?raw=true](#)
+   ![Sign Up](https://github.com/Aman12f/BookStoreApp/blob/main/frontend/src/assets/signup.png?raw=true)
 
 2. **Sign In**  
-   ![https://github.com/Aman12f/BookStoreApp/blob/main/frontend/src/assets/signin.png?raw=true](#)
+   ![Sign In](https://github.com/Aman12f/BookStoreApp/blob/main/frontend/src/assets/signin.png?raw=true)
 
 3. **Dashboard**  
    ![Dashboard](#)
